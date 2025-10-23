@@ -74,7 +74,7 @@ Both APIs auto-refresh every 60 seconds.
 
 ```bash
 # Clone the repository
-git clone https://github.com/jordanroberto74/dolar-bolivia.git
+git clone https://github.com/JORDANROBERTO74/dolarbluebolivia.git
 
 # Install dependencies
 npm install
@@ -193,7 +193,7 @@ Ambas APIs se actualizan automáticamente cada 60 segundos.
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/jordanroberto74/dolar-bolivia.git
+git clone https://github.com/JORDANROBERTO74/dolarbluebolivia.git
 
 # Instalar dependencias
 npm install
