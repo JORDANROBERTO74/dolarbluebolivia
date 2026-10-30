@@ -230,3 +230,8 @@ El proyecto está disponible en: [dolar-bolivia.vercel.app](https://dolar-bolivi
 Si deseas conocer más sobre este proyecto o colaborar, puedes contactarme en jordanroberto74@gmail.com.
 
 ¡Gracias por visitar Dólar Blue Bolivia!
+
+
+## License
+
+MIT. See [LICENSE](LICENSE).
